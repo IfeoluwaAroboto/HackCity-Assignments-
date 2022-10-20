@@ -1,0 +1,5 @@
+STEP ONE: Create a function with an initialized Variable in it's brakets.
+         Use the split method to return a new array // let split = str.split()
+STEP TWO: Use the reverse method to reverse the new created array. // let reverse = split.reverse()
+STEP THREE: Use the join method to join all the elements together to a string. let join = reverse.join()
+STEP FOUR: Return the third Variable. // return join. 

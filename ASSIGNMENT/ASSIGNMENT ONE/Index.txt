@@ -1,0 +1,6 @@
+BELOW ARE SOME OF THE STEPS
+
+STEP ONE: Initalize a variable // let String = " "
+STEP TWO: Create a new variable that stores a new string // let newString = " "
+STEP THREE:  Use the upperCase method on the inital string. let newString = String.upperCase
+STEP FOUR: Check it out on your console. 
